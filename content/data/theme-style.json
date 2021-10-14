@@ -8,7 +8,7 @@
     },
     "h2": {
         "style": "bold",
-        "size": 48,
+        "size": 500,
         "lineHeight": 48,
         "decoration": "none"
     },
@@ -18,5 +18,4 @@
     "complimentary-1": "#e9f6ff",
     "complimentary-2": "#fffde2",
     "info": "#ffa928"
-
 }
