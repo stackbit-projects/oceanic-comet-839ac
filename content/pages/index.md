@@ -55,7 +55,7 @@ sections:
       - content/pages/blog/post-one.md
   - elementId: ''
     colors: colors-c
-    width: wide
+    width: full
     height: tall
     topGap: medium
     bottomGap: medium
